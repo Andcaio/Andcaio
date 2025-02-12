@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Caio Andrade 😁
+## Bem-vindo(a) ao perfil do Caio Andrade 
 
  <div>
    <a href="https://github.com/Andcaio">
