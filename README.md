@@ -81,13 +81,3 @@ Estudante de Engenharia de Software na ULBRA e ex-estagiário de TI, com experi�
 
 <p align="center"><i>Aberto a oportunidades de estágio em desenvolvimento de software.</i></p>
 
----
-
-### Idiomas
-
-- 🇧🇷 Português — Nativo
-- 🇺🇸 Inglês — Intermediário (foco em leitura de documentação técnica, CNA 2020–2024)
-
----
-
-<p align="center"><i>Aberto a oportunidades de estágio em desenvolvimento de software.</i></p>
