@@ -12,7 +12,7 @@
 
 ### Sobre mim
 
-Estudante de Engenharia de Software na ULBRA e ex-estagiário de TI, com experiência prática em suporte técnico, diagnóstico de infraestrutura e manutenção de sistemas corporativos. Venho aprofundando conhecimentos em desenvolvimento backend (Java/Python) e frontend moderno (React/Angular), aplicando fundamentos de POO e boas práticas de versionamento em projetos reais. Busco uma oportunidade de estágio em desenvolvimento de software.
+Estudante de Engenharia de Software na ULBRA e ex-estagiário de TI, com experiência prática em suporte técnico, diagnóstico de infraestrutura e manutenção de sistemas corporativos. Venho aprofundando conhecimentos em desenvolvimento backend (Java/Python) e frontend moderno (React/Angular), incluindo integração com APIs de IA generativa, e aplicando fundamentos de POO e boas práticas de versionamento em projetos reais. Busco uma oportunidade de estágio em desenvolvimento de software.
 
 ---
 
@@ -20,6 +20,7 @@ Estudante de Engenharia de Software na ULBRA e ex-estagiário de TI, com experi�
 
 | Projeto | Descrição | Stack |
 |---|---|---|
+| **[Analisador de Editais de Licitação](https://github.com/Andcaio/Resume-Licita)** | Extrai o texto de editais em PDF (vários arquivos por certame) e usa a API do Google Gemini para gerar um resumo jurídico estruturado — objeto, valor, cronograma, habilitação, garantias e riscos — com rastreabilidade ao item de origem. Interface Tkinter com processamento em thread, modo CLI para lote e retentativa com backoff | `Python` `Gemini API` `Tkinter` |
 | **[Sistema de Gestão de Biblioteca](https://github.com/Andcaio/Projeto-POO-G2-Biblioteca)** | Aplicação Java para controle de acervo, cadastro de usuários e fluxo de empréstimos, aplicando encapsulamento, herança e polimorfismo | `Java` `Git` |
 | **[Taxa de Vitória](https://github.com/Andcaio/Taxa-de-vitoria)** | Jogo 2D top-down em equipe, com sistema econômico interno que rege as ações do jogador | `C#` `Unity` `Git` |
 
@@ -42,6 +43,12 @@ Estudante de Engenharia de Software na ULBRA e ex-estagiário de TI, com experi�
 
 <p>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+**APIs de IA**
+
+<p>
+  <img src="https://img.shields.io/badge/Google_Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
 </p>
 
 **Em aprendizado**
@@ -69,6 +76,16 @@ Estudante de Engenharia de Software na ULBRA e ex-estagiário de TI, com experi�
 - Montagem, diagnóstico de hardware e manutenção corretiva/preventiva de computadores corporativos
 - Instalação, configuração e troubleshooting de softwares corporativos e sistemas estatais internos
 - Gestão do fluxo de chamados de suporte técnico, com atendimento direto aos servidores
+
+---
+
+### Formação
+
+**Engenharia de Software — Universidade Luterana do Brasil (ULBRA)**, Palmas/TO
+*Previsão de conclusão: 07/2029*
+
+**Ensino Médio — Colégio COC Palmas**, Palmas/TO
+*Concluído em 12/2024*
 
 ---
 
