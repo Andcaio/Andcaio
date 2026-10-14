@@ -84,9 +84,6 @@ Estudante de Engenharia de Software na ULBRA e ex-estagiário de TI, com experi�
 **Engenharia de Software — Universidade Luterana do Brasil (ULBRA)**, Palmas/TO
 *Previsão de conclusão: 07/2029*
 
-**Ensino Médio — Colégio COC Palmas**, Palmas/TO
-*Concluído em 12/2024*
-
 ---
 
 ### Idiomas
